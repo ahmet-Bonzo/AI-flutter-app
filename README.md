@@ -1,4 +1,4 @@
-# lucky cookie
+# Lucky Cookie
 
 
 A new Flutter project.
